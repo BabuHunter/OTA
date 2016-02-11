@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <bacon>
-            <Filename>ResurrectionRemix-M-v5.6.0-20151214-victara</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.3-20160211-victara</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://romwarehouse.com/megatron007/victara/Resurrection/ResurrectionRemix-M-v5.6.0-20151224-victara.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/resurrectionremix/victara/ResurrectionRemix-M-v5.6.3-20160211-victara.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
