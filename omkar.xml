@@ -21,7 +21,7 @@
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</victara>
     </Stable>
-        <Stable>
+    <Stable>
         <ghost>
             <Filename>ResurrectionRemix-M-v5.6.5-20160330-ghost</Filename>
             <RomUrl
