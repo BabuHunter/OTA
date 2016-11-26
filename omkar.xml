@@ -15,10 +15,6 @@
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</victara>
     </Stable>
     <Stable>
@@ -44,27 +40,19 @@
     </Stable>
     <Stable>
         <bullhead>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160808-bullhead.zip</Filename>
-            <BuildsUrl
-            	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build [MTC20F]">https://basketbuild.com/uploads/devs/resurrectionremix/bullhead/ResurrectionRemix-M-v5.7.3-20160808-bullhead.zip</BuildsUrl>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161126-bullhead.zip</Filename>
 	     <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">https://s.basketbuild.com/devs/resurrectionremix/bullhead</RomUrl>
+                description="Download ResurrectionRemix Nexus 5X builds">https://www.androidfilehost.com/?fid=457095661767118872</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/Banks/</BanksGappsUrl>
 	</bullhead>
     </Stable>
 </SlimOTA>
