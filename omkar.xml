@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <victara>
-            <Filename>ResurrectionRemix-M-v5.6.9-20160520-victara</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161127-victara</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/resurrectionremix/victara/ResurrectionRemix-M-v5.6.9-20160520-victara.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=457095661767119244</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
