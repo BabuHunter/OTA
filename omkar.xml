@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <victara>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161211-victara</Filename>
+            <Filename>RR-N-v5.8.0-20161225-victara-official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=385035244224404916</RomUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/victara/RR-N-v5.8.0-20161225-victara-official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://www.androidfilehost.com/?fid=529152257862687899</ChangelogUrl>
+                description="View Changelog">https://github.com/resurrectionremix</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -40,15 +40,15 @@
     </Stable>
     <Stable>
         <bullhead>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161211-bullhead</Filename>
+            <Filename>RR-N-v5.8.0-20161225-bullhead-official</Filename>
 	     <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">https://www.androidfilehost.com/?fid=529152257862687886</RomUrl>
+                description="Download ResurrectionRemix Nexus 5X builds">http://downloads.resurrectionremix.com/bullhead/RR-N-v5.8.0-20161225-bullhead-official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://www.androidfilehost.com/?fid=745425885120692886</ChangelogUrl>
+                description="View Changelog">https://github.com/resurrectionremix</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
