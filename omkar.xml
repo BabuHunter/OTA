@@ -40,15 +40,15 @@
     </Stable>
     <Stable>
         <bullhead>
-            <Filename>RR-N-v5.8.0-20161225-bullhead-official</Filename>
+            <Filename>RR-N-v5.8.0-20170113-bullhead-official</Filename>
 	     <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">http://downloads.resurrectionremix.com/bullhead/RR-N-v5.8.0-20161225-bullhead-official.zip</RomUrl>
+                description="Download ResurrectionRemix Nexus 5X builds">http://downloads.resurrectionremix.com/bullhead/RR-N-v5.8.0-20170113-bullhead-official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/resurrectionremix</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
