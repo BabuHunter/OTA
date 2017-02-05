@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <victara>
-            <Filename>RR-N-v5.8.0-20170113-victara-official</Filename>
+            <Filename>RR-N-v5.8.1-20170205-victara-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/victara/RR-N-v5.8.0-20170113-victara-official.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix/files/victara/RR-N-v5.8.1-20170205-victara-Official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -40,11 +40,11 @@
     </Stable>
     <Stable>
         <bullhead>
-            <Filename>RR-N-v5.8.0-20170113-bullhead-official</Filename>
+            <Filename>RR-N-v5.8.1-20170203-bullhead-Official</Filename>
 	     <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">http://downloads.resurrectionremix.com/bullhead/RR-N-v5.8.0-20170113-bullhead-official.zip</RomUrl>
+                description="Download ResurrectionRemix Nexus 5X builds">https://sourceforge.net/projects/resurrectionremix/files/bullhead/RR-N-v5.8.1-20170203-bullhead-Official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
