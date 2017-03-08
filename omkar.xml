@@ -44,7 +44,7 @@
 	     <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">http://downloads.hostingsharedbox.com/megatron007/rr/</RomUrl>
+                description="Download ResurrectionRemix Nexus 5X builds">http://downloads.hostingsharedbox.com/megatron007/rr/bullhead/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
