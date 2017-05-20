@@ -40,11 +40,11 @@
     </Stable>
     <Stable>
         <bullhead>
-            <Filename>RR-N-v5.8.3-20170419-bullhead-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170520-bullhead-Official</Filename>
 	     <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Nexus 5X builds">https://www.androidfilehost.com/?fid=673368273298948768</RomUrl>
+                description="Download ResurrectionRemix Nexus 5X builds">https://www.androidfilehost.com/?fid=745425885120733307</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
